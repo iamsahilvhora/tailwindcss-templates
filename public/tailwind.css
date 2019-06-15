@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+  transition: all .3s ease;
+}
+
+#navbar {
+  transition: all .3s ease;
+}
+
+.navbar-toggler {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  width: 26px;
+  height: 26px;
+  padding: 2px 0;
+  border: none;
+  right: 15px;
+
+}
+
+.navbar-toggler:focus {
+  outline: none;
+}
+
+.navbar-toggler .navbar-toggler-bar {
+  display: block;
+  width: 26px;
+  height: 2px;
+  background-color: #05004d;
+  -webkit-transition: all .2s ease-in-out 0s;
+  -o-transition: all .2s ease-in-out 0s;
+  transition: all .2s ease-in-out 0s;
+  border-radius: 4px;
+  margin-bottom: 5px
+}
+
+.navbar-toggler .navbar-toggler-bar:last-child {
+  margin-bottom: 0
+}
+
+.navbar-toggler.active .navbar-toggler-bar:nth-child(1) {
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: relative;
+  top: 7px
+}
+
+.navbar-toggler.active .navbar-toggler-bar:nth-child(2) {
+  opacity: 0
+}
+
+.navbar-toggler.active .navbar-toggler-bar:nth-child(3) {
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  position: relative;
+  bottom: 7px
+}
