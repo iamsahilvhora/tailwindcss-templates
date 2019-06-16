@@ -2,11 +2,9 @@
 
 **Care-fully crafted landing pages & dashboard UI examples to energize your creative development workflow using Tailwind CSS.**
 
-Feel free to download these templates for your personal and commercial projects. All templates are responsive in design and premium in quality, and yes it’s 100% free to download.
+**View live demos, https://tailwindcss-templates.netlify.com/**
 
-## About Tailwind CSS
-A utility-first CSS framework for rapidly building custom user interfaces.
-For full documentation, visit tailwindcss.com
+Feel free to download these templates for your personal and commercial projects. All templates are responsive in design and premium in quality, and yes it’s 100% free to download.
 
 To get started:
 
@@ -42,3 +40,12 @@ npm run production
 ```
 
 After that's done, check out `./public/build/tailwind.css` to see the optimized output.
+
+## About Tailwind CSS
+A utility-first CSS framework for rapidly building custom user interfaces.
+For full documentation, visit https://tailwindcss.com/
+
+## Creator
+**Sahil Vhora**, Freelance Full-stack Designer
+
+Follow me on Twitter, https://twitter.com/iamsahilvhora
