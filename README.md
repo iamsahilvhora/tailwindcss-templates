@@ -2,7 +2,7 @@
 
 **Care-fully crafted landing pages & dashboard UI examples to energize your creative development workflow using Tailwind CSS.**
 
-**View live, https://tailwindcss-templates.netlify.com/**
+**View live demos, https://tailwindcss-templates.netlify.com/**
 
 Feel free to download these templates for your personal and commercial projects. All templates are responsive in design and premium in quality, and yes it’s 100% free to download.
 
