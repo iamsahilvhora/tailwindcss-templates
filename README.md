@@ -48,4 +48,4 @@ For full documentation, visit https://tailwindcss.com/
 ## Creator
 **Sahil Vhora**, Freelance Full-stack Designer
 
-Follow me on Twitter 👉 @iamsahilvhora
+Follow me on Twitter, https://twitter.com/iamsahilvhora
