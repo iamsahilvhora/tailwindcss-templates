@@ -1,13 +1,19 @@
-# FairPrice Website & App
+# Tailwind CSS Templates
 
-A simple practice project for playing around with Tailwind in a proper PostCSS environment.
+## Care-fully crafted landing pages & dashboard UI examples to energize your creative development workflow using Tailwind CSS.
+
+Feel free to download these templates for your personal and commercial projects. All templates are responsive in design and premium in quality, and yes it’s 100% free to download.
+
+## About Tailwind CSS
+A utility-first CSS framework for rapidly building custom user interfaces.
+For full documentation, visit tailwindcss.com
 
 To get started:
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/iamsahilvhora/fair-price.git
+    git clone https://github.com/iamsahilvhora/tailwindcss-templates.git
     ```
 
 2. Install the dependencies:
