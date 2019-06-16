@@ -45,6 +45,12 @@ After that's done, check out `./public/build/tailwind.css` to see the optimized 
 A utility-first CSS framework for rapidly building custom user interfaces.
 For full documentation, visit https://tailwindcss.com/
 
+## License
+Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Support
+Please use the GitHub issues for support requests. If you need someone to develop your site in Tailwind CSS for you, hit me up at [iamsahilvhora@gmail.com](mailto:iamsahilvhora@gmail.com)
+
 ## Creator
 **Sahil Vhora**, Freelance Full-stack Designer
 
